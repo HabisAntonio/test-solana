@@ -1,2 +1,2 @@
 # test-solana
-solana test faucet
+Solana Test Faucet
